@@ -1,0 +1,7 @@
+api/build/
+client/target/
+.env
+*.db
+.vscode/
+.idea/
+compile_commands.json
